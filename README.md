@@ -21,3 +21,35 @@ A elaboração de orçamentos baseada apenas em fotos ou descrições fornecidas
 
 **Ideia de melhoria:**
 Como opções de melhoria, o Constru Match poderia implementar mecanismos para tornar os orçamentos mais precisos, como formulários mais detalhados e orientações para o envio de fotos e vídeos com melhor qualidade. Também seria importante investir na melhoria do desempenho da plataforma, solucionando problemas relacionados ao funcionamento dos botões, travamentos e atrasos durante a navegação. Além disso a interface, apesar de ser intuitiva, poderia ser modernizada, tanto em relação ao design quanto à implementação de novas ferramentas baseadas em inteligência artificial. Podendo ser a criação de um agente virtual personalizado da plataforma, capaz de auxiliar o usuário durante a solicitação de serviços, esclarecer dúvidas, etc.
+
+### App 2- Triider
+
+
+## O que resolve?
+
+O Triider resolve a dificuldade de encontrar profissionais confiáveis para serviços domésticos e reformas. A plataforma centraliza a busca, os orçamentos, as avaliações, a comunicação, o agendamento e o pagamento em um único lugar, tornando a contratação mais prática e segura.
+
+## O que funciona bem?
+
+* **Segurança:** verificação dos profissionais e avaliações de clientes.
+* **Praticidade:** vários orçamentos podem ser recebidos e comparados.
+* **Pagamento centralizado:** permite pagamento pela plataforma e parcelamento no cartão.
+* **Variedade:** oferece diversas categorias de serviços.
+* **Histórico:** mantém as informações e conversas da contratação registradas.
+* **Garantia:** oferece mecanismos de proteção ao cliente caso ocorram problemas.
+
+## O que é frustrante?
+
+* **Demora na aprovação:** profissionais podem esperar muito tempo para ter o cadastro aprovado.
+* **Suporte limitado:** dificuldades para conseguir atendimento rápido em situações mais complexas.
+* **Falhas no aplicativo:** problemas de cadastro, notificações e recursos para profissionais.
+* **Custos para profissionais:** taxas e compra de contatos podem representar um custo alto, principalmente quando o serviço não é fechado.
+
+## Ideia de melhoria
+
+Criar uma **Central de Atendimento em Tempo Real para Serviços em Andamento**, com um botão de suporte prioritário dentro do pedido.
+
+O cliente ou profissional poderia acionar esse suporte em situações como **falta do profissional, atrasos, danos, problemas no serviço ou desacordo sobre o que foi combinado**.
+
+Além disso, o aplicativo poderia ter **check-in do profissional, registro de fotos antes e depois e acompanhamento das etapas do serviço**, aumentando a segurança e facilitando a resolução de conflitos.
+

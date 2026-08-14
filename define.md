@@ -25,54 +25,39 @@ A pessoa que precisa realizar reparos residenciais precisa de uma forma prática
 
 ## 3. Escopo do MVP
 
-Must é o que vai ser construído. Should e Could ficam registrados aqui, fora do escopo — não são descartados, são adiados.
-
-> **Exemplo — CaronaPUC**
->
-> **Must (essencial)**
-> - Cadastro de trajeto: origem, destino e horário
-> - Busca de colegas com trajeto compatível
-> - Chat para combinar os detalhes
->
-> **Should (importante)**
-> - Avaliação de motorista e de carona depois da viagem
-> - Aviso quando surge um colega com trajeto compatível
->
-> **Could (desejável)**
-> - Cálculo automático do custo da corrida
-> - Integração com Google Maps e Waze
-
 **O escopo:**
 
-**Must (essencial)**
--
--
+## **Must (essencial)**
 
-**Should (importante)**
--
--
+* Busca de profissionais por categoria e localização
+* Visualização do perfil, avaliações e informações do profissional
+* Solicitação de orçamento e acompanhamento da solicitação
 
-**Could (desejável)**
--
--
+## **Should (importante)**
+
+* Chat entre cliente e profissional
+* Agendamento do serviço
+* Histórico de serviços realizados
+* Sistema de pagamento pelo aplicativo
+
+## **Could (desejável)**
+
+* Assistente virtual com inteligência artificial
+* Sugestão automática de profissionais
+* Estimativa automática do preço do serviço
+* Registro de fotos antes e depois do serviço
 
 ---
 
-## 4. User stories
-
-Uma por item **Must**, no formato: **Como [persona], eu quero [ação] para que [benefício]**
-
-> **Exemplo — CaronaPUC** (uma para cada um dos três Musts acima)
->
-> 1. Como estudante que precisa de carona, eu quero cadastrar meu trajeto e horário para que o app me mostre colegas compatíveis.
-> 2. Como estudante que oferece carona, eu quero ver quem já solicitou aquele trajeto para que eu escolha quem levar.
-> 3. Como usuário do app, eu quero conversar com o colega antes de confirmar para que a gente combine ponto de encontro e valor.
+## 4. User Stories
 
 **User stories:**
 
-1.
-2.
-3.
+1. Como cliente, eu quero buscar profissionais por categoria e localização para que eu encontre opções adequadas para realizar meu serviço.
+
+2. Como cliente, eu quero visualizar o perfil e as avaliações do profissional para que eu possa escolher um prestador confiável.
+
+3. Como cliente, eu quero solicitar um orçamento e acompanhar a solicitação para que eu possa comparar as opções e saber como está o andamento da contratação.
 
 ---
 

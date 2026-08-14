@@ -1,41 +1,25 @@
-# Define — [nome do projeto]
-
-> **Como usar este arquivo**
->
-> 1. Salvem este arquivo como **`define.md`** na raiz do repositório do grupo.
-> 2. Todo bloco de citação marcado como *Exemplo — CaronaPUC* é só demonstração: **apaguem** e escrevam a versão de vocês no espaço indicado logo abaixo dele.
-> 3. Apaguem também este bloco de instruções antes de entregar.
-> 4. No fim do arquivo há uma checklist — confiram antes de dar o push.
-
+# Define — Help
 ---
 
 ## 1. Persona
 
-
-> **Exemplo — CaronaPUC**
->
-> - **Contexto:** estudante que mora longe do campus e depende de transporte público para chegar nas aulas da manhã
-> - **Objetivo:** chegar ao campus a tempo, gastando o mínimo possível
-> - **Dores:** ônibus lotado e atrasado; Uber caro para usar todo dia; não sabe quem mais na faculdade faz o mesmo trajeto
-
 **A nossa persona:**
 
 - **Contexto:**
+Pessoa que precisa contratar profissionais para realizar pequenos reparos ou serviços na sua residência. Quando surge uma necessidade, como um problema elétrico, hidráulico, montagem de móveis ou pintura, busca uma forma mais prática de encontrar profissionais disponíveis, entender os valores cobrados e avaliar a confiabilidade do prestador antes da contratação.
+  
 - **Objetivo:**
+Encontrar e contratar, de forma rápida e segura, um profissional adequado para realizar um serviço residencial, conseguindo visualizar informações sobre o prestador, comparar opções e acompanhar a solicitação em um único aplicativo.
+  
 - **Dores:**
+Dificuldade para encontrar profissionais confiáveis; dependência de indicações; insegurança sobre a qualidade do serviço; dificuldade para comparar profissionais e orçamentos; possibilidade de diferença entre o valor inicialmente estimado e o custo real do serviço.
 
 ---
 
 ## 2. Problem statement
 
-
-> **Exemplo — CaronaPUC**
->
-> O estudante que mora longe precisa de um jeito confiável e barato de chegar ao campus porque o transporte público da região é instável, mas hoje não sabe quais colegas fazem o mesmo trajeto para dividir carona.
-
 **Problem statement:**
-
-
+A pessoa que precisa realizar reparos residenciais precisa de uma forma prática e confiável de encontrar e contratar profissionais porque deseja escolher um prestador adequado à sua necessidade, mas hoje enfrenta dificuldades para encontrar profissionais confiáveis, comparar opções e ter clareza sobre o valor do serviço.
 
 ---
 

@@ -19,7 +19,7 @@ Dificuldade para encontrar profissionais confiáveis; dependência de indicaçõ
 ## 2. Problem statement
 
 **Problem statement:**
-A pessoa que precisa realizar reparos residenciais precisa de uma forma prática e confiável de encontrar e contratar profissionais porque deseja escolher um prestador adequado à sua necessidade, mas hoje enfrenta dificuldades para encontrar profissionais confiáveis, comparar opções e ter clareza sobre o valor do serviço.
+Uma pessoa que precisa realizar reparos residenciais precisa de uma forma prática e confiável de encontrar e contratar profissionais porque deseja escolher um prestador adequado à sua necessidade, mas hoje enfrenta dificuldades para encontrar opções confiáveis, compará-las e ter clareza sobre o valor do serviço.
 
 ---
 
@@ -31,7 +31,7 @@ A pessoa que precisa realizar reparos residenciais precisa de uma forma prática
 
 * Busca de profissionais por categoria e localização
 * Visualização do perfil, avaliações e informações do profissional
-* Solicitação de orçamento e acompanhamento da solicitação
+* Solicitação, visualização e acompanhamento de orçamentos
 
 ## **Should (importante)**
 
@@ -57,17 +57,6 @@ A pessoa que precisa realizar reparos residenciais precisa de uma forma prática
 
 2. Como cliente, eu quero visualizar o perfil e as avaliações do profissional para que eu possa escolher um prestador confiável.
 
-3. Como cliente, eu quero solicitar um orçamento e acompanhar a solicitação para que eu possa comparar as opções e saber como está o andamento da contratação.
+3. Como cliente, eu quero solicitar, visualizar e acompanhar orçamentos para que eu possa comparar as opções e saber como está o andamento da contratação.
 
 ---
-
-## Checklist antes do push
-
-- [ ] O arquivo se chama `define.md` e está na raiz do repositório do grupo
-- [ ] Os blocos de exemplo do CaronaPUC e o bloco de instruções foram apagados
-- [ ] As quatro partes estão preenchidas
-- [ ] O problem statement tem os quatro pedaços: persona, necessidade, motivo e lacuna
-- [ ] Existe uma user story para cada item Must — nem a mais, nem a menos
-- [ ] As três categorias do escopo têm conteúdo (se tudo virou Must, o recorte não foi feito)
-- [ ] Lendo do começo ao fim, as quatro partes falam do mesmo produto
-- [ ] Commit feito e enviado para o GitHub

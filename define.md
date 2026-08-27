@@ -60,9 +60,9 @@ Uma pessoa que precisa realizar reparos residenciais precisa de uma forma práti
 ## **Should (importante)**
 
 * Chat entre cliente e profissional
-* Agendamento do serviço
-* Histórico de serviços realizados
+* Histórico completo de serviços para o cliente
 * Sistema de pagamento pelo aplicativo
+* Avaliação de clientes e profissionais após a conclusão do serviço
 
 ## **Could (desejável)**
 
@@ -77,10 +77,50 @@ Uma pessoa que precisa realizar reparos residenciais precisa de uma forma práti
 
 **User stories:**
 
-1. Como cliente, eu quero buscar profissionais por categoria e localização para que eu encontre opções adequadas para realizar meu serviço.
+## **Geral:**
 
-2. Como cliente, eu quero visualizar o perfil e as avaliações do profissional para que eu possa escolher um prestador confiável.
+1. Como usuário, eu quero selecionar meu tipo de cadastro para que eu possa criar uma conta de acordo com o perfil desejado.
 
-3. Como cliente, eu quero solicitar, visualizar e acompanhar orçamentos para que eu possa comparar as opções e saber como está o andamento da contratação.
+2. Como usuário, eu quero acessar minha conta e recuperar ou alterar minha senha para que eu possa manter o acesso ao aplicativo.
 
+## **Cliente:**
+
+3. Como cliente, eu quero me cadastrar no Help para que eu possa utilizar as funcionalidades disponíveis para contratação de serviços.
+
+4. Como cliente, eu quero acessar uma tela inicial para que eu possa visualizar e acessar as principais funcionalidades do aplicativo.
+
+5. Como usuário, eu quero alternar entre os perfis de cliente e profissional para que eu possa utilizar o Help de acordo com a minha necessidade.
+
+6. Como cliente, eu quero buscar serviços e profissionais por categoria e localização para que eu possa encontrar opções adequadas à minha necessidade.
+
+7. Como cliente, eu quero visualizar meu perfil e as avaliações recebidas para que eu possa acompanhar minha reputação na plataforma.
+
+8. Como cliente, eu quero visualizar e acompanhar minhas solicitações para que eu possa saber o andamento dos serviços solicitados.
+
+9. Como cliente, eu quero visualizar os detalhes e cancelar um serviço solicitado ou agendado para que eu possa gerenciar minhas contratações.
+
+10. Como cliente, eu quero solicitar um serviço urgente para que eu possa encontrar atendimento para uma necessidade imediata.
+
+11. Como cliente, eu quero agendar um serviço não urgente para que eu possa escolher uma data e um horário adequados para sua realização.
+
+## **Profissional:**
+
+12. Como profissional, eu quero me cadastrar no Help para que eu possa oferecer meus serviços aos clientes da plataforma.
+
+13. Como profissional, eu quero acessar uma tela inicial para que eu possa visualizar e acessar as principais funcionalidades relacionadas aos meus serviços.
+
+14. Como profissional, eu quero visualizar as solicitações recebidas e aceitá-las ou recusá-las para que eu possa gerenciar as oportunidades de serviço.
+
+15. Como profissional, eu quero acompanhar os serviços agendados ou aceitos para que eu possa organizar os trabalhos que serão realizados.
+
+16. Como profissional, eu quero visualizar os serviços concluídos para que eu possa acompanhar os trabalhos que já realizei.
+
+17. Como profissional, eu quero visualizar os serviços cancelados para que eu possa acompanhar as alterações nas minhas solicitações.
+
+18. Como profissional, eu quero visualizar os detalhes e cancelar um serviço agendado para que eu possa gerenciar meus compromissos.
+
+19. Como profissional, eu quero visualizar meu perfil e as avaliações recebidas para que eu possa acompanhar minha reputação na plataforma.
+
+20. Como profissional, eu quero visualizar os pagamentos recebidos pelos serviços realizados para que eu possa acompanhar os valores recebidos.
+    
 ---

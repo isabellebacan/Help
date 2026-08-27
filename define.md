@@ -28,9 +28,34 @@ Uma pessoa que precisa realizar reparos residenciais precisa de uma forma práti
 
 ## **Must (essencial)**
 
-* Busca de profissionais por categoria e localização
-* Visualização do perfil, avaliações e informações do profissional
-* Solicitação, visualização e acompanhamento de orçamentos
+**Must — Geral:**
+
+* Seleção do tipo de cadastro
+* Acesso à conta, recuperação e alteração de senha e verificação de e-mail
+
+**Must — Usuário:**
+
+* Cadastro de usuário
+* Tela inicial do usuário
+* Alternância entre perfil de usuário e profissional
+* Busca de serviços e prestadores
+* Visualização do próprio perfil e das avaliações recebidas
+* Visualização e acompanhamento das solicitações realizadas
+* Visualização dos detalhes e cancelamento de serviços solicitados e agendados
+* Solicitação de serviços urgentes
+* Agendamento de serviços não urgentes
+
+**Must — Profissional:**
+
+* Cadastro de profissional
+*Tela inicial do profissional
+* Visualização das solicitações de serviços recebidas, com opção de aceitar ou recusar
+* Acompanhamento de serviços agendados/aceitos
+* Visualização de serviços concluídos
+* Visualização de serviços cancelados
+* Visualização dos detalhes e cancelamento de serviços agendados
+* Visualização do próprio perfil e das avaliações recebidas
+* Visualização dos pagamentos recebidos pelos serviços realizados
 
 ## **Should (importante)**
 

@@ -48,7 +48,7 @@ Uma pessoa que precisa realizar reparos residenciais precisa de uma forma práti
 **Must — Profissional:**
 
 * Cadastro de profissional
-*Tela inicial do profissional
+* Tela inicial do profissional
 * Visualização das solicitações de serviços recebidas, com opção de aceitar ou recusar
 * Acompanhamento de serviços agendados/aceitos
 * Visualização de serviços concluídos

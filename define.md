@@ -6,14 +6,13 @@
 **A nossa persona:**
 
 - **Contexto:**
-Pessoa que precisa contratar profissionais para realizar pequenos reparos ou serviços na sua residência. Quando surge uma necessidade, como um problema elétrico, hidráulico, montagem de móveis ou pintura, busca uma forma mais prática de encontrar profissionais disponíveis, entender os valores cobrados e avaliar a confiabilidade do prestador antes da contratação.
+Pessoas envolvidas na contratação e prestação de serviços de manutenção e reparos residenciais. De um lado, clientes que precisam encontrar profissionais disponíveis e confiáveis para realizar serviços em suas residências. Do outro, prestadores de serviço que buscam novas oportunidades de trabalho e formas de divulgar seus serviços e alcançar novos clientes.
   
 - **Objetivo:**
-Encontrar e contratar, de forma rápida e segura, um profissional adequado para realizar um serviço residencial, conseguindo visualizar informações sobre o prestador, comparar opções e acompanhar a solicitação em um único aplicativo.
+Facilitar a conexão entre clientes e prestadores de serviço, permitindo que clientes encontrem e contratem profissionais de forma prática e segura e que os prestadores tenham acesso a novas oportunidades de trabalho e possam divulgar seus serviços em um único aplicativo.
   
 - **Dores:**
-Dificuldade para encontrar profissionais confiáveis; dependência de indicações; insegurança sobre a qualidade do serviço; dificuldade para comparar profissionais e orçamentos; possibilidade de diferença entre o valor inicialmente estimado e o custo real do serviço.
-
+Para os clientes, dificuldade para encontrar profissionais confiáveis, dependência de indicações, insegurança sobre a qualidade do serviço e dificuldade para comparar profissionais e orçamentos. Para os prestadores, dependência de indicações para conseguir novos clientes, dificuldade para divulgar seus serviços e alcançar novos públicos e falta de um meio centralizado para receber e acompanhar solicitações.
 ---
 
 ## 2. Problem statement

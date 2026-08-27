@@ -77,13 +77,13 @@ Uma pessoa que precisa realizar reparos residenciais precisa de uma forma práti
 
 **User stories:**
 
-## **Geral:**
+**Geral:**
 
 1. Como usuário, eu quero selecionar meu tipo de cadastro para que eu possa criar uma conta de acordo com o perfil desejado.
 
 2. Como usuário, eu quero acessar minha conta e recuperar ou alterar minha senha para que eu possa manter o acesso ao aplicativo.
 
-## **Cliente:**
+**Cliente:**
 
 3. Como cliente, eu quero me cadastrar no Help para que eu possa utilizar as funcionalidades disponíveis para contratação de serviços.
 
@@ -103,7 +103,7 @@ Uma pessoa que precisa realizar reparos residenciais precisa de uma forma práti
 
 11. Como cliente, eu quero agendar um serviço não urgente para que eu possa escolher uma data e um horário adequados para sua realização.
 
-## **Profissional:**
+**Profissional:**
 
 12. Como profissional, eu quero me cadastrar no Help para que eu possa oferecer meus serviços aos clientes da plataforma.
 

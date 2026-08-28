@@ -1,0 +1,128 @@
+# Roteiro de Tarefas — Teste do Protótipo Help
+
+Este roteiro acompanha o protótipo navegável do aplicativo **Help**. Ele foi feito para ser aplicado a alguém que nunca viu o app antes. Cada tarefa apresenta uma situação e um objetivo — o caminho até lá é livre, e faz parte do teste.
+
+Antes de começar, informe à pessoa que executa o teste:
+
+> "Você vai passar por algumas situações do dia a dia. Para cada uma, tente alcançar o objetivo descrito da forma que fizer mais sentido para você. Não existe caminho certo — o que importa é onde você chega."
+
+---
+
+## Parte 1 — Geral
+
+### Tarefa 1
+**Cenário:** Você está abrindo o aplicativo pela primeira vez e precisa decidir se vai usá-lo para contratar serviços ou para oferecer os seus.
+**Objetivo:** Comece a criar uma conta como pessoa que quer contratar um serviço.
+**Fim da tarefa:** quando você chegar à etapa em que começa a preencher seus dados de cadastro.
+
+### Tarefa 2
+**Cenário:** Você já tem uma conta no aplicativo, mas esqueceu sua senha e não consegue entrar.
+**Objetivo:** Recupere o acesso à sua conta.
+**Fim da tarefa:** quando você conseguir definir uma nova senha.
+
+---
+
+## Parte 2 — Cliente
+
+### Tarefa 3
+**Cenário:** Você decidiu experimentar o Help como cliente e ainda não tem uma conta.
+**Objetivo:** Finalize seu cadastro como cliente.
+**Fim da tarefa:** quando você ver a confirmação de que sua conta foi criada.
+
+### Tarefa 4
+**Cenário:** Você acabou de entrar no aplicativo como cliente.
+**Objetivo:** Chegue até o lugar onde consegue ver as principais opções disponíveis para você como cliente.
+**Fim da tarefa:** quando você reconhecer que está na tela principal do seu perfil de cliente.
+
+### Tarefa 5
+**Cenário:** Você usa o Help tanto para contratar quanto para oferecer serviços, e hoje quer ver as coisas do lado de quem presta serviço.
+**Objetivo:** Passe do seu perfil de cliente para o seu perfil de profissional.
+**Fim da tarefa:** quando você ver que está usando o aplicativo como profissional.
+
+### Tarefa 6
+**Cenário:** Uma tomada da sua casa parou de funcionar e você precisa de um eletricista.
+**Objetivo:** Encontre profissionais que atendam esse tipo de problema perto de você.
+**Fim da tarefa:** quando você ver uma lista de profissionais ou serviços disponíveis para esse tipo de reparo.
+
+### Tarefa 7
+**Cenário:** Você já usou o Help algumas vezes e quer saber como está sendo visto pelos profissionais que já te atenderam.
+**Objetivo:** Veja seu perfil e as avaliações que você recebeu.
+**Fim da tarefa:** quando você estiver vendo suas avaliações.
+
+### Tarefa 8
+**Cenário:** Há alguns dias você pediu um serviço e quer saber se já tem alguma novidade sobre ele.
+**Objetivo:** Verifique o andamento desse pedido.
+**Fim da tarefa:** quando você souber em que etapa o pedido está.
+
+### Tarefa 9
+**Cenário:** Você agendou um serviço, mas seus planos mudaram e ele não é mais necessário.
+**Objetivo:** Cancele esse serviço agendado.
+**Fim da tarefa:** quando você ver a confirmação de que o serviço foi cancelado.
+
+### Tarefa 10
+**Cenário:** Um cano estourou na sua cozinha agora e você precisa de ajuda o quanto antes.
+**Objetivo:** Peça um serviço com urgência.
+**Fim da tarefa:** quando você ver a confirmação de que seu pedido urgente foi enviado.
+
+### Tarefa 11
+**Cenário:** Você quer pintar uma parede da sua sala, mas não há pressa — prefere marcar para um dia específico no mês que vem.
+**Objetivo:** Agende esse serviço para uma data futura.
+**Fim da tarefa:** quando você ver a confirmação de que o serviço foi agendado, com a data escolhida.
+
+---
+
+## Parte 3 — Profissional
+
+### Tarefa 12
+**Cenário:** Você é montador de móveis e quer começar a receber pedidos de clientes pelo Help.
+**Objetivo:** Finalize seu cadastro como profissional.
+**Fim da tarefa:** quando você ver a confirmação de que sua conta profissional foi criada.
+
+### Tarefa 13
+**Cenário:** Você acabou de entrar no aplicativo como profissional.
+**Objetivo:** Chegue até o lugar onde consegue ver as principais informações sobre seu trabalho no aplicativo.
+**Fim da tarefa:** quando você reconhecer que está na tela principal do seu perfil de profissional.
+
+### Tarefa 14
+**Cenário:** Um cliente acabou de solicitar um serviço que você pode realizar.
+**Objetivo:** Veja esse pedido e decida se vai aceitá-lo.
+**Fim da tarefa:** quando sua resposta ao pedido (aceitar ou recusar) for registrada.
+
+### Tarefa 15
+**Cenário:** Você já aceitou alguns serviços e quer se organizar para a semana.
+**Objetivo:** Veja quais serviços você tem agendados ou já aceitos.
+**Fim da tarefa:** quando você estiver vendo essa lista de serviços.
+
+### Tarefa 16
+**Cenário:** Você quer relembrar quantos trabalhos já concluiu pelo aplicativo.
+**Objetivo:** Veja os serviços que você já finalizou.
+**Fim da tarefa:** quando você estiver vendo a lista de serviços concluídos.
+
+### Tarefa 17
+**Cenário:** Um cliente cancelou um serviço com você recentemente, e você quer conferir esse e outros casos parecidos.
+**Objetivo:** Veja os serviços que foram cancelados.
+**Fim da tarefa:** quando você estiver vendo a lista de serviços cancelados.
+
+### Tarefa 18
+**Cenário:** Você tem um serviço agendado para essa semana, mas surgiu um imprevisto e não vai conseguir realizá-lo.
+**Objetivo:** Cancele esse serviço agendado.
+**Fim da tarefa:** quando você ver a confirmação de que o serviço foi cancelado.
+
+### Tarefa 19
+**Cenário:** Você quer saber como está sua reputação como profissional na plataforma.
+**Objetivo:** Veja seu perfil e as avaliações que você recebeu dos clientes.
+**Fim da tarefa:** quando você estiver vendo suas avaliações.
+
+### Tarefa 20
+**Cenário:** Você quer saber quanto já recebeu pelos serviços que realizou pelo aplicativo.
+**Objetivo:** Veja os pagamentos que você já recebeu.
+**Fim da tarefa:** quando você estiver vendo essa informação.
+
+---
+
+## Checklist de conferência (antes de entregar)
+
+- [ ] Todo Must do `define.md` tem uma tarefa correspondente (20 tarefas de perfil + 2 gerais)
+- [ ] Nenhuma tarefa cita nome de botão, menu, aba ou ícone
+- [ ] Cada tarefa tem um fim reconhecível declarado
+- [ ] O roteiro é compreensível por alguém que nunca viu o app
